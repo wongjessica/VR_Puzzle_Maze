@@ -8,46 +8,40 @@ using UnityEngine;
     rigidbody with kinematic says, maybe this object will move or wont
 */
 public class HiddenTileTrigger : MonoBehaviour
-{
+{   
     [SerializeField] private Transform HiddenTile = null;
     [SerializeField] private Transform HiddenCab = null;
+
+    [SerializeField] private AudioSource audioSource = null;
+    [SerializeField] private AudioClip cabopen = null;
 
     [SerializeField] private Vector3 downTile = new Vector3(4.3125f, -0.75f, -11f);
     [SerializeField] private Vector3 upTile = new Vector3(4.3125f, -0.375f, -11f);
     
-    [SerializeField] private Vector3 closeCab = new Vector3(10f, 0, -7.5f);
-    [SerializeField] private Vector3 openCab = new Vector3(10f, 0, -10.0625f);
+    [SerializeField] private Vector3 closeCab = new Vector3(10f, 0f, -7.5f);
+    [SerializeField] private Vector3 openCab = new Vector3(10f, 0f, -10f);
 
-    private float openSpeed = 3;
+    private float openSpeed = 2;
     private float cabopenSpeed = 1;
 
     private bool Triggered = false;
-    private float timer = .5f;
-
     private bool playerOn = false;
     private bool barrelOn = false;
+    AudioManager cab = null;
 
+    void Start(){
+        cab = FindObjectOfType<AudioManager>();
+    }
     // Update is called once per frame
     void Update()
     {
         if(Triggered){
-            HiddenTile.position = Vector3.Lerp(HiddenTile.position, downTile, Time.deltaTime * openSpeed);
-            /**
-            if(HiddenTile.position == downTile){
-                HiddenCab.position = Vector3.Lerp(HiddenCab.position, openCab, Time.deltaTime * openSpeed);
-            }
-            */
-
-            if (timer > 0f) {
-                timer -= Time.deltaTime;
-            }
-            if (timer <= 0f) {
-                HiddenCab.position = Vector3.Lerp(HiddenCab.position, openCab, Time.deltaTime * cabopenSpeed );
-            }
+            HiddenTile.position = Vector3.LerpUnclamped(HiddenTile.position, downTile, Time.deltaTime * openSpeed);
+            HiddenCab.position = Vector3.LerpUnclamped(HiddenCab.position, openCab, Time.deltaTime * cabopenSpeed );
         }
         else{
-            HiddenTile.position = Vector3.Lerp(HiddenTile.position, upTile, Time.deltaTime * openSpeed);
-            HiddenCab.position = Vector3.Lerp(HiddenCab.position, closeCab, Time.deltaTime * 2);
+            HiddenTile.position = Vector3.LerpUnclamped(HiddenTile.position, upTile, Time.deltaTime * openSpeed);
+            HiddenCab.position = Vector3.LerpUnclamped(HiddenCab.position, closeCab, Time.deltaTime * openSpeed);
         }
     }
     
@@ -55,28 +49,18 @@ public class HiddenTileTrigger : MonoBehaviour
         if(other.tag == "Player") playerOn = true;
         else if (other.tag == "Barrel" ) barrelOn = true;
         if(playerOn != barrelOn){
-            //Debug.Log(gameObject.name + " triggered by " + other.gameObject.name); 
-            tileDown();
-            //AudioManager.PlaySound("cabOpen");
-            FindObjectOfType<AudioManager>().Play("cabOpen");
+            Triggered = true;
+            audioSource.Play();
         }
         
     }
     private void OnTriggerExit(Collider other){
-        timer = .5f;
-        //Debug.Log(gameObject.name + " triggered by " + other.gameObject.name); 
         if(other.tag == "Player") playerOn = false;
         else if (other.tag == "Barrel" ) barrelOn = false;
         if(playerOn == false && barrelOn == false){
-            tileUp();
+            Triggered = false;
+            audioSource.Stop();
         }
     }
 
-    private void tileDown(){
-        Triggered = true;
-    }
-
-    private void tileUp(){
-        Triggered = false;
-    }
 }
