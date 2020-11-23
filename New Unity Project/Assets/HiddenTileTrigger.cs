@@ -12,8 +12,8 @@ public class HiddenTileTrigger : MonoBehaviour
     [SerializeField] private Transform HiddenTile = null;
     [SerializeField] private Transform HiddenCab = null;
 
-    [SerializeField] private AudioSource audioSource = null;
-    [SerializeField] private AudioClip cabopen = null;
+    //[SerializeField] private AudioSource audioSource = null;
+    //[SerializeField] private AudioClip cabopen = null;
 
     [SerializeField] private Vector3 downTile = new Vector3(4.3125f, -0.75f, -11f);
     [SerializeField] private Vector3 upTile = new Vector3(4.3125f, -0.375f, -11f);
@@ -27,11 +27,9 @@ public class HiddenTileTrigger : MonoBehaviour
     private bool Triggered = false;
     private bool playerOn = false;
     private bool barrelOn = false;
-    AudioManager cab = null;
+    public AudioManager cab = null;
 
-    void Start(){
-        cab = FindObjectOfType<AudioManager>();
-    }
+
     // Update is called once per frame
     void Update()
     {
@@ -50,7 +48,7 @@ public class HiddenTileTrigger : MonoBehaviour
         else if (other.tag == "Barrel" ) barrelOn = true;
         if(playerOn != barrelOn){
             Triggered = true;
-            audioSource.Play();
+            cab.Play("cabOpen");
         }
         
     }
@@ -59,7 +57,7 @@ public class HiddenTileTrigger : MonoBehaviour
         else if (other.tag == "Barrel" ) barrelOn = false;
         if(playerOn == false && barrelOn == false){
             Triggered = false;
-            audioSource.Stop();
+            cab.Stop("cabOpen");
         }
     }
 

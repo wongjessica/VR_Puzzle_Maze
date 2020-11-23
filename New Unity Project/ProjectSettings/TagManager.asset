@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Fire
   - Barrel
+  - HiddenTile
+  - breakable
+  - hammer
   layers:
   - Default
   - TransparentFX
@@ -15,11 +18,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - gameobject
+  - Wall
+  - grabable
+  - interactable
+  - uninteractable
   - 
   - 
   - 

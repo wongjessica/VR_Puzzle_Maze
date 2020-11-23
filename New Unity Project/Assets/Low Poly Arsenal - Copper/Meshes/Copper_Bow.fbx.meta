@@ -1,0 +1,2292 @@
+fileFormatVersion: 2
+guid: 26984f4c418f7fd42be4f8daebe41b85
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature_Bow_Copper.002
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.005
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.010
+    100024: Bone.011
+    100026: Bone.012
+    100028: Bone.013
+    100030: Bone.014
+    100032: Bone.015
+    100034: Bone.016
+    100036: Bone.017
+    100038: Bone.018
+    100040: Bone.019
+    100042: Bone.020
+    100044: Bone.021
+    100046: Bone.022
+    100048: Bone.023
+    100050: Bone.024
+    100052: Bone.025
+    100054: Bone.028
+    100056: Bone.029
+    100058: //RootNode
+    100060: Copper_Bow
+    100062: Master
+    100064: Copper_Bow_Armature
+    100066: Bone.028_end
+    100068: Bone.029_end
+    100070: Armature_Bow_Cobalt
+    100072: Armature_Bow_Copper
+    100074: Armature_Bow_Copper.003
+    100076: Armature_Bow_Gold
+    100078: Armature_Bow_Iron
+    100080: Armature_Bow_Platinium
+    100082: Armature_Bow_Silver
+    100084: Armature_Bow_Steel
+    100086: Armature_Bow_Titanium
+    100088: Arrow
+    100090: Axe_Adamantium
+    100092: Axe_Cobalt
+    100094: Axe_Copper
+    100096: Axe_Copper_Flat
+    100098: Axe_Gold
+    100100: Axe_Iron
+    100102: Axe_Mithril
+    100104: Axe_Orichalcum
+    100106: Axe_Platinium
+    100108: Axe_QuickSilver
+    100110: Axe_Silver
+    100112: Axe_Steel.007
+    100114: Axe_Steel_(Kama)
+    100116: Axe_Stone
+    100118: Axe_Titanium.001
+    100120: Bone 1
+    100122: Bone 2
+    100124: Bone 3
+    100126: Bone 4
+    100128: Bone 5
+    100130: Bone 6
+    100132: Bone 7
+    100134: Bone.001 1
+    100136: Bone.001 2
+    100138: Bone.001 3
+    100140: Bone.001 4
+    100142: Bone.001 5
+    100144: Bone.001 6
+    100146: Bone.001 7
+    100148: Bone.002 1
+    100150: Bone.002 10
+    100152: Bone.002 11
+    100154: Bone.002 12
+    100156: Bone.002 13
+    100158: Bone.002 14
+    100160: Bone.002 15
+    100162: Bone.002 16
+    100164: Bone.002 17
+    100166: Bone.002 2
+    100168: Bone.002 3
+    100170: Bone.002 4
+    100172: Bone.002 5
+    100174: Bone.002 6
+    100176: Bone.002 7
+    100178: Bone.002 8
+    100180: Bone.002 9
+    100182: Bone.003 1
+    100184: Bone.003 10
+    100186: Bone.003 11
+    100188: Bone.003 12
+    100190: Bone.003 13
+    100192: Bone.003 14
+    100194: Bone.003 15
+    100196: Bone.003 2
+    100198: Bone.003 3
+    100200: Bone.003 4
+    100202: Bone.003 5
+    100204: Bone.003 6
+    100206: Bone.003 7
+    100208: Bone.003 8
+    100210: Bone.003 9
+    100212: Bone.004 1
+    100214: Bone.004 10
+    100216: Bone.004 11
+    100218: Bone.004 12
+    100220: Bone.004 13
+    100222: Bone.004 14
+    100224: Bone.004 15
+    100226: Bone.004 16
+    100228: Bone.004 17
+    100230: Bone.004 2
+    100232: Bone.004 3
+    100234: Bone.004 4
+    100236: Bone.004 5
+    100238: Bone.004 6
+    100240: Bone.004 7
+    100242: Bone.004 8
+    100244: Bone.004 9
+    100246: Bone.005 1
+    100248: Bone.005 10
+    100250: Bone.005 11
+    100252: Bone.005 12
+    100254: Bone.005 13
+    100256: Bone.005 14
+    100258: Bone.005 15
+    100260: Bone.005 2
+    100262: Bone.005 3
+    100264: Bone.005 4
+    100266: Bone.005 5
+    100268: Bone.005 6
+    100270: Bone.005 7
+    100272: Bone.005 8
+    100274: Bone.005 9
+    100276: Bone.006 1
+    100278: Bone.006 10
+    100280: Bone.006 11
+    100282: Bone.006 12
+    100284: Bone.006 13
+    100286: Bone.006 14
+    100288: Bone.006 15
+    100290: Bone.006 16
+    100292: Bone.006 17
+    100294: Bone.006 2
+    100296: Bone.006 3
+    100298: Bone.006 4
+    100300: Bone.006 5
+    100302: Bone.006 6
+    100304: Bone.006 7
+    100306: Bone.006 8
+    100308: Bone.006 9
+    100310: Bone.007 1
+    100312: Bone.007 10
+    100314: Bone.007 11
+    100316: Bone.007 12
+    100318: Bone.007 13
+    100320: Bone.007 14
+    100322: Bone.007 15
+    100324: Bone.007 16
+    100326: Bone.007 17
+    100328: Bone.007 2
+    100330: Bone.007 3
+    100332: Bone.007 4
+    100334: Bone.007 5
+    100336: Bone.007 6
+    100338: Bone.007 7
+    100340: Bone.007 8
+    100342: Bone.007 9
+    100344: Bone.008 1
+    100346: Bone.008 10
+    100348: Bone.008 11
+    100350: Bone.008 12
+    100352: Bone.008 13
+    100354: Bone.008 14
+    100356: Bone.008 15
+    100358: Bone.008 2
+    100360: Bone.008 3
+    100362: Bone.008 4
+    100364: Bone.008 5
+    100366: Bone.008 6
+    100368: Bone.008 7
+    100370: Bone.008 8
+    100372: Bone.008 9
+    100374: Bone.009 1
+    100376: Bone.009 2
+    100378: Bone.009 3
+    100380: Bone.009 4
+    100382: Bone.009 5
+    100384: Bone.009 6
+    100386: Bone.009 7
+    100388: Bone.009 8
+    100390: Bone.009 9
+    100392: Bone.010 1
+    100394: Bone.010 10
+    100396: Bone.010 11
+    100398: Bone.010 12
+    100400: Bone.010 13
+    100402: Bone.010 14
+    100404: Bone.010 15
+    100406: Bone.010 16
+    100408: Bone.010 17
+    100410: Bone.010 2
+    100412: Bone.010 3
+    100414: Bone.010 4
+    100416: Bone.010 5
+    100418: Bone.010 6
+    100420: Bone.010 7
+    100422: Bone.010 8
+    100424: Bone.010 9
+    100426: Bone.011 1
+    100428: Bone.011 10
+    100430: Bone.011 11
+    100432: Bone.011 2
+    100434: Bone.011 3
+    100436: Bone.011 4
+    100438: Bone.011 5
+    100440: Bone.011 6
+    100442: Bone.011 7
+    100444: Bone.011 8
+    100446: Bone.011 9
+    100448: Bone.012 1
+    100450: Bone.012 10
+    100452: Bone.012 11
+    100454: Bone.012 12
+    100456: Bone.012 13
+    100458: Bone.012 14
+    100460: Bone.012 15
+    100462: Bone.012 16
+    100464: Bone.012 17
+    100466: Bone.012 2
+    100468: Bone.012 3
+    100470: Bone.012 4
+    100472: Bone.012 5
+    100474: Bone.012 6
+    100476: Bone.012 7
+    100478: Bone.012 8
+    100480: Bone.012 9
+    100482: Bone.013 1
+    100484: Bone.013 2
+    100486: Bone.013 3
+    100488: Bone.013 4
+    100490: Bone.013 5
+    100492: Bone.013 6
+    100494: Bone.013 7
+    100496: Bone.014 1
+    100498: Bone.014 2
+    100500: Bone.014 3
+    100502: Bone.014 4
+    100504: Bone.014 5
+    100506: Bone.014 6
+    100508: Bone.014 7
+    100510: Bone.015 1
+    100512: Bone.015 10
+    100514: Bone.015 11
+    100516: Bone.015 12
+    100518: Bone.015 13
+    100520: Bone.015 14
+    100522: Bone.015 15
+    100524: Bone.015 16
+    100526: Bone.015 17
+    100528: Bone.015 2
+    100530: Bone.015 3
+    100532: Bone.015 4
+    100534: Bone.015 5
+    100536: Bone.015 6
+    100538: Bone.015 7
+    100540: Bone.015 8
+    100542: Bone.015 9
+    100544: Bone.016 1
+    100546: Bone.016 10
+    100548: Bone.016 11
+    100550: Bone.016 12
+    100552: Bone.016 13
+    100554: Bone.016 14
+    100556: Bone.016 15
+    100558: Bone.016 2
+    100560: Bone.016 3
+    100562: Bone.016 4
+    100564: Bone.016 5
+    100566: Bone.016 6
+    100568: Bone.016 7
+    100570: Bone.016 8
+    100572: Bone.016 9
+    100574: Bone.017 1
+    100576: Bone.017 10
+    100578: Bone.017 11
+    100580: Bone.017 12
+    100582: Bone.017 13
+    100584: Bone.017 14
+    100586: Bone.017 15
+    100588: Bone.017 16
+    100590: Bone.017 17
+    100592: Bone.017 2
+    100594: Bone.017 3
+    100596: Bone.017 4
+    100598: Bone.017 5
+    100600: Bone.017 6
+    100602: Bone.017 7
+    100604: Bone.017 8
+    100606: Bone.017 9
+    100608: Bone.018 1
+    100610: Bone.018 10
+    100612: Bone.018 11
+    100614: Bone.018 12
+    100616: Bone.018 13
+    100618: Bone.018 14
+    100620: Bone.018 15
+    100622: Bone.018 2
+    100624: Bone.018 3
+    100626: Bone.018 4
+    100628: Bone.018 5
+    100630: Bone.018 6
+    100632: Bone.018 7
+    100634: Bone.018 8
+    100636: Bone.018 9
+    100638: Bone.019 1
+    100640: Bone.019 10
+    100642: Bone.019 11
+    100644: Bone.019 12
+    100646: Bone.019 13
+    100648: Bone.019 14
+    100650: Bone.019 15
+    100652: Bone.019 16
+    100654: Bone.019 17
+    100656: Bone.019 2
+    100658: Bone.019 3
+    100660: Bone.019 4
+    100662: Bone.019 5
+    100664: Bone.019 6
+    100666: Bone.019 7
+    100668: Bone.019 8
+    100670: Bone.019 9
+    100672: Bone.020 1
+    100674: Bone.020 10
+    100676: Bone.020 11
+    100678: Bone.020 12
+    100680: Bone.020 13
+    100682: Bone.020 14
+    100684: Bone.020 15
+    100686: Bone.020 16
+    100688: Bone.020 17
+    100690: Bone.020 2
+    100692: Bone.020 3
+    100694: Bone.020 4
+    100696: Bone.020 5
+    100698: Bone.020 6
+    100700: Bone.020 7
+    100702: Bone.020 8
+    100704: Bone.020 9
+    100706: Bone.021 1
+    100708: Bone.021 10
+    100710: Bone.021 11
+    100712: Bone.021 12
+    100714: Bone.021 13
+    100716: Bone.021 14
+    100718: Bone.021 15
+    100720: Bone.021 2
+    100722: Bone.021 3
+    100724: Bone.021 4
+    100726: Bone.021 5
+    100728: Bone.021 6
+    100730: Bone.021 7
+    100732: Bone.021 8
+    100734: Bone.021 9
+    100736: Bone.022 1
+    100738: Bone.022 2
+    100740: Bone.022 3
+    100742: Bone.022 4
+    100744: Bone.022 5
+    100746: Bone.022 6
+    100748: Bone.022 7
+    100750: Bone.022 8
+    100752: Bone.022 9
+    100754: Bone.023 1
+    100756: Bone.023 10
+    100758: Bone.023 11
+    100760: Bone.023 12
+    100762: Bone.023 13
+    100764: Bone.023 14
+    100766: Bone.023 15
+    100768: Bone.023 16
+    100770: Bone.023 17
+    100772: Bone.023 2
+    100774: Bone.023 3
+    100776: Bone.023 4
+    100778: Bone.023 5
+    100780: Bone.023 6
+    100782: Bone.023 7
+    100784: Bone.023 8
+    100786: Bone.023 9
+    100788: Bone.024 1
+    100790: Bone.024 10
+    100792: Bone.024 11
+    100794: Bone.024 2
+    100796: Bone.024 3
+    100798: Bone.024 4
+    100800: Bone.024 5
+    100802: Bone.024 6
+    100804: Bone.024 7
+    100806: Bone.024 8
+    100808: Bone.024 9
+    100810: Bone.025 1
+    100812: Bone.025 10
+    100814: Bone.025 11
+    100816: Bone.025 12
+    100818: Bone.025 13
+    100820: Bone.025 14
+    100822: Bone.025 15
+    100824: Bone.025 16
+    100826: Bone.025 17
+    100828: Bone.025 2
+    100830: Bone.025 3
+    100832: Bone.025 4
+    100834: Bone.025 5
+    100836: Bone.025 6
+    100838: Bone.025 7
+    100840: Bone.025 8
+    100842: Bone.025 9
+    100844: Bone.028 1
+    100846: Bone.028 10
+    100848: Bone.028 11
+    100850: Bone.028 12
+    100852: Bone.028 13
+    100854: Bone.028 14
+    100856: Bone.028 15
+    100858: Bone.028 16
+    100860: Bone.028 17
+    100862: Bone.028 2
+    100864: Bone.028 3
+    100866: Bone.028 4
+    100868: Bone.028 5
+    100870: Bone.028 6
+    100872: Bone.028 7
+    100874: Bone.028 8
+    100876: Bone.028 9
+    100878: Bone.028_end 1
+    100880: Bone.028_end 10
+    100882: Bone.028_end 11
+    100884: Bone.028_end 12
+    100886: Bone.028_end 13
+    100888: Bone.028_end 14
+    100890: Bone.028_end 15
+    100892: Bone.028_end 16
+    100894: Bone.028_end 17
+    100896: Bone.028_end 2
+    100898: Bone.028_end 3
+    100900: Bone.028_end 4
+    100902: Bone.028_end 5
+    100904: Bone.028_end 6
+    100906: Bone.028_end 7
+    100908: Bone.028_end 8
+    100910: Bone.028_end 9
+    100912: Bone.029 1
+    100914: Bone.029 10
+    100916: Bone.029 11
+    100918: Bone.029 12
+    100920: Bone.029 13
+    100922: Bone.029 14
+    100924: Bone.029 15
+    100926: Bone.029 16
+    100928: Bone.029 17
+    100930: Bone.029 2
+    100932: Bone.029 3
+    100934: Bone.029 4
+    100936: Bone.029 5
+    100938: Bone.029 6
+    100940: Bone.029 7
+    100942: Bone.029 8
+    100944: Bone.029 9
+    100946: Bone.029_end 1
+    100948: Bone.029_end 10
+    100950: Bone.029_end 11
+    100952: Bone.029_end 12
+    100954: Bone.029_end 13
+    100956: Bone.029_end 14
+    100958: Bone.029_end 15
+    100960: Bone.029_end 16
+    100962: Bone.029_end 17
+    100964: Bone.029_end 2
+    100966: Bone.029_end 3
+    100968: Bone.029_end 4
+    100970: Bone.029_end 5
+    100972: Bone.029_end 6
+    100974: Bone.029_end 7
+    100976: Bone.029_end 8
+    100978: Bone.029_end 9
+    100980: Bow_Adamantium
+    100982: Bow_Cobalt
+    100984: Bow_Copper
+    100986: Bow_Gold
+    100988: Bow_Iron
+    100990: Bow_Mithril
+    100992: Bow_Orichalcum
+    100994: Bow_Platinium
+    100996: Bow_QuickSilver
+    100998: Bow_Silver
+    101000: Bow_Steel
+    101002: Bow_Stone
+    101004: Bow_Titanium
+    101006: Cobalt_Axe
+    101008: Cobalt_Bow
+    101010: Cobalt_Bow_Armature
+    101012: Cobalt_Dagger
+    101014: Cobalt_GreatSword
+    101016: Cobalt_Hammer
+    101018: Cobalt_Mace
+    101020: Cobalt_Sword
+    101022: Cobalt_Waraxe
+    101024: Collider_axe
+    101026: Collider_Bow
+    101028: Collider_Dagger
+    101030: Collider_Hammer
+    101032: Collider_Mace
+    101034: Collider_Sword
+    101036: Collider_Waraxe
+    101038: Copper_Axe
+    101040: Copper_Bow_Flat
+    101042: Copper_Dagger
+    101044: Copper_GreatSword
+    101046: Copper_Hammer
+    101048: Copper_Mace
+    101050: Copper_Sword
+    101052: Copper_WarAxe
+    101054: Dagger_Adamantium
+    101056: Dagger_Cobalt
+    101058: Dagger_Copper
+    101060: Dagger_Copper_Flat
+    101062: Dagger_Gold
+    101064: Dagger_Iron
+    101066: Dagger_Mithril
+    101068: Dagger_Orichalcum
+    101070: Dagger_Platinium
+    101072: Dagger_QuickSilver
+    101074: Dagger_Silver
+    101076: Dagger_Steel
+    101078: Dagger_Stone
+    101080: Dagger_Titanium
+    101082: Gold_Axe
+    101084: Gold_Bow
+    101086: Gold_Bow_Armature
+    101088: Gold_Dagger
+    101090: Gold_GreatSword
+    101092: Gold_Hammer
+    101094: Gold_Mace
+    101096: Gold_Sword
+    101098: Gold_WarAxe
+    101100: GreatSword_Adamantium
+    101102: GreatSword_Cobalt
+    101104: GreatSword_Copper
+    101106: GreatSword_Copper_Flat
+    101108: GreatSword_Gold
+    101110: Greatsword_Iron
+    101112: GreatSword_Mithril
+    101114: GreatSword_Orichalcum
+    101116: GreatSword_Platinium
+    101118: GreatSword_QuickSilver
+    101120: GreatSword_Steel
+    101122: GreatSword_Steel.001
+    101124: GreatSword_Titanium
+    101126: Hammer_Adamantium
+    101128: Hammer_Cobalt
+    101130: Hammer_Copper
+    101132: Hammer_Copper_Flat
+    101134: Hammer_Gold
+    101136: Hammer_Iron
+    101138: Hammer_Iron.001
+    101140: Hammer_Mithril
+    101142: Hammer_Orichalcum
+    101144: Hammer_Platinium
+    101146: Hammer_QuickSilver
+    101148: Hammer_Silver
+    101150: Hammer_Steel
+    101152: Hammer_Titanium
+    101154: Handle_Bot
+    101156: Handle_Bot 1
+    101158: Handle_Bot 2
+    101160: Handle_Bot 3
+    101162: Handle_Bot 4
+    101164: Handle_Bot 5
+    101166: Handle_Bot 6
+    101168: Handle_Bot 7
+    101170: Handle_Bot 8
+    101172: Handle_Bot 9
+    101174: Handle_Top
+    101176: Handle_Top 1
+    101178: Handle_Top 2
+    101180: Handle_Top 3
+    101182: Handle_Top 4
+    101184: Handle_Top 5
+    101186: Handle_Top 6
+    101188: Handle_Top 7
+    101190: Handle_Top 8
+    101192: Handle_Top 9
+    101194: Iron_Axe
+    101196: Iron_Bow
+    101198: Iron_Bow_Armature
+    101200: Iron_Dagger
+    101202: Iron_GreatSword
+    101204: Iron_Mace
+    101206: Iron_Sword
+    101208: Iron_Waraxe
+    101210: Mace_Adamantium
+    101212: Mace_Cobalt
+    101214: Mace_Copper
+    101216: Mace_Copper_Flat
+    101218: Mace_Gold
+    101220: Mace_Iron
+    101222: Mace_Mithril
+    101224: Mace_Orichalcum
+    101226: Mace_Platinium
+    101228: Mace_QuickSilver
+    101230: Mace_Silver
+    101232: Mace_Steel
+    101234: Mace_Stone
+    101236: Mace_Stone.001
+    101238: Mace_Stone.002
+    101240: Mace_Titanium
+    101242: Master 1
+    101244: Master 10
+    101246: Master 11
+    101248: Master 12
+    101250: Master 13
+    101252: Master 14
+    101254: Master 15
+    101256: Master 16
+    101258: Master 17
+    101260: Master 2
+    101262: Master 3
+    101264: Master 4
+    101266: Master 5
+    101268: Master 6
+    101270: Master 7
+    101272: Master 8
+    101274: Master 9
+    101276: Metal_Ring
+    101278: Metal_Ring 1
+    101280: Metal_Ring 2
+    101282: Metal_Ring 3
+    101284: Metal_Ring 4
+    101286: Metal_Ring 5
+    101288: Metal_Ring 6
+    101290: Metal_Ring 7
+    101292: Metal_Ring 8
+    101294: Metal_Ring 9
+    101296: Metal_Ring.001
+    101298: Metal_Ring.001 1
+    101300: Metal_Ring.001 2
+    101302: Metal_Ring.001 3
+    101304: Metal_Ring.001 4
+    101306: Metal_Ring.001 5
+    101308: Metal_Ring.001 6
+    101310: Metal_Ring.001 7
+    101312: Metal_Ring.001 8
+    101314: Metal_Ring.001 9
+    101316: Platinium_Axe
+    101318: Platinium_Bow
+    101320: Platinium_Bow_Armature
+    101322: Platinium_Dagger
+    101324: Platinium_GreatSword
+    101326: Platinium_Hammer
+    101328: Platinium_Mace
+    101330: Platinium_Sword
+    101332: Platinium_WarAxe
+    101334: Silver_Axe
+    101336: Silver_Bow
+    101338: Silver_Bow_Armature
+    101340: Silver_Dagger
+    101342: Silver_Greatsword
+    101344: Silver_Mace
+    101346: Silver_Sword
+    101348: Silver_Waraxe
+    101350: Silver_WarHammer
+    101352: Stage
+    101354: Steel_Axe
+    101356: Steel_Bow
+    101358: Steel_Bow_Armature
+    101360: Steel_Dagger
+    101362: Steel_GreatSword
+    101364: Steel_Mace
+    101366: Steel_Sword
+    101368: Steel_WarAxe
+    101370: Steel_WarHammer
+    101372: Stone_Axe
+    101374: Stone_Bow
+    101376: Stone_Bow_Armature
+    101378: Stone_Dagger
+    101380: Stone_Greatsword
+    101382: Stone_Hammer
+    101384: Stone_Mace
+    101386: Stone_Sword
+    101388: Stone_Waraxe
+    101390: Sword_Adamantium
+    101392: Sword_Cobalt
+    101394: Sword_Copper
+    101396: Sword_Copper_Flat
+    101398: Sword_Gold
+    101400: Sword_Iron
+    101402: Sword_Mithril
+    101404: Sword_Orichalcum
+    101406: Sword_Platinium
+    101408: Sword_QuickSilver
+    101410: Sword_Silver
+    101412: Sword_Steel
+    101414: Sword_Stone
+    101416: Sword_Stone.001
+    101418: Sword_Titanium
+    101420: Titanium_Axe
+    101422: Titanium_Bow
+    101424: Titanium_Bow_Armature
+    101426: Titanium_Dagger
+    101428: Titanium_GreatSword
+    101430: Titanium_Hammer
+    101432: Titanium_Mace
+    101434: Titanium_Sword
+    101436: Titanium_WarAxe
+    101438: WarAxe_Adamantium
+    101440: WarAxe_Cobalt
+    101442: WarAxe_Copper
+    101444: WarAxe_Copper_Flat
+    101446: WarAxe_Gold
+    101448: Waraxe_Iron
+    101450: WarAxe_Mithril
+    101452: WarAxe_Orichalcum
+    101454: WarAxe_Platinium
+    101456: WarAxe_QuickSilver
+    101458: WarAxe_Silver
+    101460: WarAxe_Steel_(scythe)
+    101462: WarAxe_Titanium.001
+    101464: Bone.026
+    101466: Bone.027
+    101468: Bot Ik
+    101470: Bot Ik_end
+    101472: Bot Limit
+    101474: Bot Limit_end
+    101476: String
+    101478: String_end
+    101480: Top Ik
+    101482: Top Ik_end
+    101484: Top Limit
+    101486: Top Limit_end
+    400000: Armature_Bow_Copper.002
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.005
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.010
+    400024: Bone.011
+    400026: Bone.012
+    400028: Bone.013
+    400030: Bone.014
+    400032: Bone.015
+    400034: Bone.016
+    400036: Bone.017
+    400038: Bone.018
+    400040: Bone.019
+    400042: Bone.020
+    400044: Bone.021
+    400046: Bone.022
+    400048: Bone.023
+    400050: Bone.024
+    400052: Bone.025
+    400054: Bone.028
+    400056: Bone.029
+    400058: Copper_Bow
+    400060: //RootNode
+    400062: Master
+    400064: Copper_Bow_Armature
+    400066: Bone.028_end
+    400068: Bone.029_end
+    400070: Armature_Bow_Cobalt
+    400072: Armature_Bow_Copper
+    400074: Armature_Bow_Copper.003
+    400076: Armature_Bow_Gold
+    400078: Armature_Bow_Iron
+    400080: Armature_Bow_Platinium
+    400082: Armature_Bow_Silver
+    400084: Armature_Bow_Steel
+    400086: Armature_Bow_Titanium
+    400088: Arrow
+    400090: Axe_Adamantium
+    400092: Axe_Cobalt
+    400094: Axe_Copper
+    400096: Axe_Copper_Flat
+    400098: Axe_Gold
+    400100: Axe_Iron
+    400102: Axe_Mithril
+    400104: Axe_Orichalcum
+    400106: Axe_Platinium
+    400108: Axe_QuickSilver
+    400110: Axe_Silver
+    400112: Axe_Steel.007
+    400114: Axe_Steel_(Kama)
+    400116: Axe_Stone
+    400118: Axe_Titanium.001
+    400120: Bone 1
+    400122: Bone 2
+    400124: Bone 3
+    400126: Bone 4
+    400128: Bone 5
+    400130: Bone 6
+    400132: Bone 7
+    400134: Bone.001 1
+    400136: Bone.001 2
+    400138: Bone.001 3
+    400140: Bone.001 4
+    400142: Bone.001 5
+    400144: Bone.001 6
+    400146: Bone.001 7
+    400148: Bone.002 1
+    400150: Bone.002 10
+    400152: Bone.002 11
+    400154: Bone.002 12
+    400156: Bone.002 13
+    400158: Bone.002 14
+    400160: Bone.002 15
+    400162: Bone.002 16
+    400164: Bone.002 17
+    400166: Bone.002 2
+    400168: Bone.002 3
+    400170: Bone.002 4
+    400172: Bone.002 5
+    400174: Bone.002 6
+    400176: Bone.002 7
+    400178: Bone.002 8
+    400180: Bone.002 9
+    400182: Bone.003 1
+    400184: Bone.003 10
+    400186: Bone.003 11
+    400188: Bone.003 12
+    400190: Bone.003 13
+    400192: Bone.003 14
+    400194: Bone.003 15
+    400196: Bone.003 2
+    400198: Bone.003 3
+    400200: Bone.003 4
+    400202: Bone.003 5
+    400204: Bone.003 6
+    400206: Bone.003 7
+    400208: Bone.003 8
+    400210: Bone.003 9
+    400212: Bone.004 1
+    400214: Bone.004 10
+    400216: Bone.004 11
+    400218: Bone.004 12
+    400220: Bone.004 13
+    400222: Bone.004 14
+    400224: Bone.004 15
+    400226: Bone.004 16
+    400228: Bone.004 17
+    400230: Bone.004 2
+    400232: Bone.004 3
+    400234: Bone.004 4
+    400236: Bone.004 5
+    400238: Bone.004 6
+    400240: Bone.004 7
+    400242: Bone.004 8
+    400244: Bone.004 9
+    400246: Bone.005 1
+    400248: Bone.005 10
+    400250: Bone.005 11
+    400252: Bone.005 12
+    400254: Bone.005 13
+    400256: Bone.005 14
+    400258: Bone.005 15
+    400260: Bone.005 2
+    400262: Bone.005 3
+    400264: Bone.005 4
+    400266: Bone.005 5
+    400268: Bone.005 6
+    400270: Bone.005 7
+    400272: Bone.005 8
+    400274: Bone.005 9
+    400276: Bone.006 1
+    400278: Bone.006 10
+    400280: Bone.006 11
+    400282: Bone.006 12
+    400284: Bone.006 13
+    400286: Bone.006 14
+    400288: Bone.006 15
+    400290: Bone.006 16
+    400292: Bone.006 17
+    400294: Bone.006 2
+    400296: Bone.006 3
+    400298: Bone.006 4
+    400300: Bone.006 5
+    400302: Bone.006 6
+    400304: Bone.006 7
+    400306: Bone.006 8
+    400308: Bone.006 9
+    400310: Bone.007 1
+    400312: Bone.007 10
+    400314: Bone.007 11
+    400316: Bone.007 12
+    400318: Bone.007 13
+    400320: Bone.007 14
+    400322: Bone.007 15
+    400324: Bone.007 16
+    400326: Bone.007 17
+    400328: Bone.007 2
+    400330: Bone.007 3
+    400332: Bone.007 4
+    400334: Bone.007 5
+    400336: Bone.007 6
+    400338: Bone.007 7
+    400340: Bone.007 8
+    400342: Bone.007 9
+    400344: Bone.008 1
+    400346: Bone.008 10
+    400348: Bone.008 11
+    400350: Bone.008 12
+    400352: Bone.008 13
+    400354: Bone.008 14
+    400356: Bone.008 15
+    400358: Bone.008 2
+    400360: Bone.008 3
+    400362: Bone.008 4
+    400364: Bone.008 5
+    400366: Bone.008 6
+    400368: Bone.008 7
+    400370: Bone.008 8
+    400372: Bone.008 9
+    400374: Bone.009 1
+    400376: Bone.009 2
+    400378: Bone.009 3
+    400380: Bone.009 4
+    400382: Bone.009 5
+    400384: Bone.009 6
+    400386: Bone.009 7
+    400388: Bone.009 8
+    400390: Bone.009 9
+    400392: Bone.010 1
+    400394: Bone.010 10
+    400396: Bone.010 11
+    400398: Bone.010 12
+    400400: Bone.010 13
+    400402: Bone.010 14
+    400404: Bone.010 15
+    400406: Bone.010 16
+    400408: Bone.010 17
+    400410: Bone.010 2
+    400412: Bone.010 3
+    400414: Bone.010 4
+    400416: Bone.010 5
+    400418: Bone.010 6
+    400420: Bone.010 7
+    400422: Bone.010 8
+    400424: Bone.010 9
+    400426: Bone.011 1
+    400428: Bone.011 10
+    400430: Bone.011 11
+    400432: Bone.011 2
+    400434: Bone.011 3
+    400436: Bone.011 4
+    400438: Bone.011 5
+    400440: Bone.011 6
+    400442: Bone.011 7
+    400444: Bone.011 8
+    400446: Bone.011 9
+    400448: Bone.012 1
+    400450: Bone.012 10
+    400452: Bone.012 11
+    400454: Bone.012 12
+    400456: Bone.012 13
+    400458: Bone.012 14
+    400460: Bone.012 15
+    400462: Bone.012 16
+    400464: Bone.012 17
+    400466: Bone.012 2
+    400468: Bone.012 3
+    400470: Bone.012 4
+    400472: Bone.012 5
+    400474: Bone.012 6
+    400476: Bone.012 7
+    400478: Bone.012 8
+    400480: Bone.012 9
+    400482: Bone.013 1
+    400484: Bone.013 2
+    400486: Bone.013 3
+    400488: Bone.013 4
+    400490: Bone.013 5
+    400492: Bone.013 6
+    400494: Bone.013 7
+    400496: Bone.014 1
+    400498: Bone.014 2
+    400500: Bone.014 3
+    400502: Bone.014 4
+    400504: Bone.014 5
+    400506: Bone.014 6
+    400508: Bone.014 7
+    400510: Bone.015 1
+    400512: Bone.015 10
+    400514: Bone.015 11
+    400516: Bone.015 12
+    400518: Bone.015 13
+    400520: Bone.015 14
+    400522: Bone.015 15
+    400524: Bone.015 16
+    400526: Bone.015 17
+    400528: Bone.015 2
+    400530: Bone.015 3
+    400532: Bone.015 4
+    400534: Bone.015 5
+    400536: Bone.015 6
+    400538: Bone.015 7
+    400540: Bone.015 8
+    400542: Bone.015 9
+    400544: Bone.016 1
+    400546: Bone.016 10
+    400548: Bone.016 11
+    400550: Bone.016 12
+    400552: Bone.016 13
+    400554: Bone.016 14
+    400556: Bone.016 15
+    400558: Bone.016 2
+    400560: Bone.016 3
+    400562: Bone.016 4
+    400564: Bone.016 5
+    400566: Bone.016 6
+    400568: Bone.016 7
+    400570: Bone.016 8
+    400572: Bone.016 9
+    400574: Bone.017 1
+    400576: Bone.017 10
+    400578: Bone.017 11
+    400580: Bone.017 12
+    400582: Bone.017 13
+    400584: Bone.017 14
+    400586: Bone.017 15
+    400588: Bone.017 16
+    400590: Bone.017 17
+    400592: Bone.017 2
+    400594: Bone.017 3
+    400596: Bone.017 4
+    400598: Bone.017 5
+    400600: Bone.017 6
+    400602: Bone.017 7
+    400604: Bone.017 8
+    400606: Bone.017 9
+    400608: Bone.018 1
+    400610: Bone.018 10
+    400612: Bone.018 11
+    400614: Bone.018 12
+    400616: Bone.018 13
+    400618: Bone.018 14
+    400620: Bone.018 15
+    400622: Bone.018 2
+    400624: Bone.018 3
+    400626: Bone.018 4
+    400628: Bone.018 5
+    400630: Bone.018 6
+    400632: Bone.018 7
+    400634: Bone.018 8
+    400636: Bone.018 9
+    400638: Bone.019 1
+    400640: Bone.019 10
+    400642: Bone.019 11
+    400644: Bone.019 12
+    400646: Bone.019 13
+    400648: Bone.019 14
+    400650: Bone.019 15
+    400652: Bone.019 16
+    400654: Bone.019 17
+    400656: Bone.019 2
+    400658: Bone.019 3
+    400660: Bone.019 4
+    400662: Bone.019 5
+    400664: Bone.019 6
+    400666: Bone.019 7
+    400668: Bone.019 8
+    400670: Bone.019 9
+    400672: Bone.020 1
+    400674: Bone.020 10
+    400676: Bone.020 11
+    400678: Bone.020 12
+    400680: Bone.020 13
+    400682: Bone.020 14
+    400684: Bone.020 15
+    400686: Bone.020 16
+    400688: Bone.020 17
+    400690: Bone.020 2
+    400692: Bone.020 3
+    400694: Bone.020 4
+    400696: Bone.020 5
+    400698: Bone.020 6
+    400700: Bone.020 7
+    400702: Bone.020 8
+    400704: Bone.020 9
+    400706: Bone.021 1
+    400708: Bone.021 10
+    400710: Bone.021 11
+    400712: Bone.021 12
+    400714: Bone.021 13
+    400716: Bone.021 14
+    400718: Bone.021 15
+    400720: Bone.021 2
+    400722: Bone.021 3
+    400724: Bone.021 4
+    400726: Bone.021 5
+    400728: Bone.021 6
+    400730: Bone.021 7
+    400732: Bone.021 8
+    400734: Bone.021 9
+    400736: Bone.022 1
+    400738: Bone.022 2
+    400740: Bone.022 3
+    400742: Bone.022 4
+    400744: Bone.022 5
+    400746: Bone.022 6
+    400748: Bone.022 7
+    400750: Bone.022 8
+    400752: Bone.022 9
+    400754: Bone.023 1
+    400756: Bone.023 10
+    400758: Bone.023 11
+    400760: Bone.023 12
+    400762: Bone.023 13
+    400764: Bone.023 14
+    400766: Bone.023 15
+    400768: Bone.023 16
+    400770: Bone.023 17
+    400772: Bone.023 2
+    400774: Bone.023 3
+    400776: Bone.023 4
+    400778: Bone.023 5
+    400780: Bone.023 6
+    400782: Bone.023 7
+    400784: Bone.023 8
+    400786: Bone.023 9
+    400788: Bone.024 1
+    400790: Bone.024 10
+    400792: Bone.024 11
+    400794: Bone.024 2
+    400796: Bone.024 3
+    400798: Bone.024 4
+    400800: Bone.024 5
+    400802: Bone.024 6
+    400804: Bone.024 7
+    400806: Bone.024 8
+    400808: Bone.024 9
+    400810: Bone.025 1
+    400812: Bone.025 10
+    400814: Bone.025 11
+    400816: Bone.025 12
+    400818: Bone.025 13
+    400820: Bone.025 14
+    400822: Bone.025 15
+    400824: Bone.025 16
+    400826: Bone.025 17
+    400828: Bone.025 2
+    400830: Bone.025 3
+    400832: Bone.025 4
+    400834: Bone.025 5
+    400836: Bone.025 6
+    400838: Bone.025 7
+    400840: Bone.025 8
+    400842: Bone.025 9
+    400844: Bone.028 1
+    400846: Bone.028 10
+    400848: Bone.028 11
+    400850: Bone.028 12
+    400852: Bone.028 13
+    400854: Bone.028 14
+    400856: Bone.028 15
+    400858: Bone.028 16
+    400860: Bone.028 17
+    400862: Bone.028 2
+    400864: Bone.028 3
+    400866: Bone.028 4
+    400868: Bone.028 5
+    400870: Bone.028 6
+    400872: Bone.028 7
+    400874: Bone.028 8
+    400876: Bone.028 9
+    400878: Bone.028_end 1
+    400880: Bone.028_end 10
+    400882: Bone.028_end 11
+    400884: Bone.028_end 12
+    400886: Bone.028_end 13
+    400888: Bone.028_end 14
+    400890: Bone.028_end 15
+    400892: Bone.028_end 16
+    400894: Bone.028_end 17
+    400896: Bone.028_end 2
+    400898: Bone.028_end 3
+    400900: Bone.028_end 4
+    400902: Bone.028_end 5
+    400904: Bone.028_end 6
+    400906: Bone.028_end 7
+    400908: Bone.028_end 8
+    400910: Bone.028_end 9
+    400912: Bone.029 1
+    400914: Bone.029 10
+    400916: Bone.029 11
+    400918: Bone.029 12
+    400920: Bone.029 13
+    400922: Bone.029 14
+    400924: Bone.029 15
+    400926: Bone.029 16
+    400928: Bone.029 17
+    400930: Bone.029 2
+    400932: Bone.029 3
+    400934: Bone.029 4
+    400936: Bone.029 5
+    400938: Bone.029 6
+    400940: Bone.029 7
+    400942: Bone.029 8
+    400944: Bone.029 9
+    400946: Bone.029_end 1
+    400948: Bone.029_end 10
+    400950: Bone.029_end 11
+    400952: Bone.029_end 12
+    400954: Bone.029_end 13
+    400956: Bone.029_end 14
+    400958: Bone.029_end 15
+    400960: Bone.029_end 16
+    400962: Bone.029_end 17
+    400964: Bone.029_end 2
+    400966: Bone.029_end 3
+    400968: Bone.029_end 4
+    400970: Bone.029_end 5
+    400972: Bone.029_end 6
+    400974: Bone.029_end 7
+    400976: Bone.029_end 8
+    400978: Bone.029_end 9
+    400980: Bow_Adamantium
+    400982: Bow_Cobalt
+    400984: Bow_Copper
+    400986: Bow_Gold
+    400988: Bow_Iron
+    400990: Bow_Mithril
+    400992: Bow_Orichalcum
+    400994: Bow_Platinium
+    400996: Bow_QuickSilver
+    400998: Bow_Silver
+    401000: Bow_Steel
+    401002: Bow_Stone
+    401004: Bow_Titanium
+    401006: Cobalt_Axe
+    401008: Cobalt_Bow
+    401010: Cobalt_Bow_Armature
+    401012: Cobalt_Dagger
+    401014: Cobalt_GreatSword
+    401016: Cobalt_Hammer
+    401018: Cobalt_Mace
+    401020: Cobalt_Sword
+    401022: Cobalt_Waraxe
+    401024: Collider_axe
+    401026: Collider_Bow
+    401028: Collider_Dagger
+    401030: Collider_Hammer
+    401032: Collider_Mace
+    401034: Collider_Sword
+    401036: Collider_Waraxe
+    401038: Copper_Axe
+    401040: Copper_Bow_Flat
+    401042: Copper_Dagger
+    401044: Copper_GreatSword
+    401046: Copper_Hammer
+    401048: Copper_Mace
+    401050: Copper_Sword
+    401052: Copper_WarAxe
+    401054: Dagger_Adamantium
+    401056: Dagger_Cobalt
+    401058: Dagger_Copper
+    401060: Dagger_Copper_Flat
+    401062: Dagger_Gold
+    401064: Dagger_Iron
+    401066: Dagger_Mithril
+    401068: Dagger_Orichalcum
+    401070: Dagger_Platinium
+    401072: Dagger_QuickSilver
+    401074: Dagger_Silver
+    401076: Dagger_Steel
+    401078: Dagger_Stone
+    401080: Dagger_Titanium
+    401082: Gold_Axe
+    401084: Gold_Bow
+    401086: Gold_Bow_Armature
+    401088: Gold_Dagger
+    401090: Gold_GreatSword
+    401092: Gold_Hammer
+    401094: Gold_Mace
+    401096: Gold_Sword
+    401098: Gold_WarAxe
+    401100: GreatSword_Adamantium
+    401102: GreatSword_Cobalt
+    401104: GreatSword_Copper
+    401106: GreatSword_Copper_Flat
+    401108: GreatSword_Gold
+    401110: Greatsword_Iron
+    401112: GreatSword_Mithril
+    401114: GreatSword_Orichalcum
+    401116: GreatSword_Platinium
+    401118: GreatSword_QuickSilver
+    401120: GreatSword_Steel
+    401122: GreatSword_Steel.001
+    401124: GreatSword_Titanium
+    401126: Hammer_Adamantium
+    401128: Hammer_Cobalt
+    401130: Hammer_Copper
+    401132: Hammer_Copper_Flat
+    401134: Hammer_Gold
+    401136: Hammer_Iron
+    401138: Hammer_Iron.001
+    401140: Hammer_Mithril
+    401142: Hammer_Orichalcum
+    401144: Hammer_Platinium
+    401146: Hammer_QuickSilver
+    401148: Hammer_Silver
+    401150: Hammer_Steel
+    401152: Hammer_Titanium
+    401154: Handle_Bot
+    401156: Handle_Bot 1
+    401158: Handle_Bot 2
+    401160: Handle_Bot 3
+    401162: Handle_Bot 4
+    401164: Handle_Bot 5
+    401166: Handle_Bot 6
+    401168: Handle_Bot 7
+    401170: Handle_Bot 8
+    401172: Handle_Bot 9
+    401174: Handle_Top
+    401176: Handle_Top 1
+    401178: Handle_Top 2
+    401180: Handle_Top 3
+    401182: Handle_Top 4
+    401184: Handle_Top 5
+    401186: Handle_Top 6
+    401188: Handle_Top 7
+    401190: Handle_Top 8
+    401192: Handle_Top 9
+    401194: Iron_Axe
+    401196: Iron_Bow
+    401198: Iron_Bow_Armature
+    401200: Iron_Dagger
+    401202: Iron_GreatSword
+    401204: Iron_Mace
+    401206: Iron_Sword
+    401208: Iron_Waraxe
+    401210: Mace_Adamantium
+    401212: Mace_Cobalt
+    401214: Mace_Copper
+    401216: Mace_Copper_Flat
+    401218: Mace_Gold
+    401220: Mace_Iron
+    401222: Mace_Mithril
+    401224: Mace_Orichalcum
+    401226: Mace_Platinium
+    401228: Mace_QuickSilver
+    401230: Mace_Silver
+    401232: Mace_Steel
+    401234: Mace_Stone
+    401236: Mace_Stone.001
+    401238: Mace_Stone.002
+    401240: Mace_Titanium
+    401242: Master 1
+    401244: Master 10
+    401246: Master 11
+    401248: Master 12
+    401250: Master 13
+    401252: Master 14
+    401254: Master 15
+    401256: Master 16
+    401258: Master 17
+    401260: Master 2
+    401262: Master 3
+    401264: Master 4
+    401266: Master 5
+    401268: Master 6
+    401270: Master 7
+    401272: Master 8
+    401274: Master 9
+    401276: Metal_Ring
+    401278: Metal_Ring 1
+    401280: Metal_Ring 2
+    401282: Metal_Ring 3
+    401284: Metal_Ring 4
+    401286: Metal_Ring 5
+    401288: Metal_Ring 6
+    401290: Metal_Ring 7
+    401292: Metal_Ring 8
+    401294: Metal_Ring 9
+    401296: Metal_Ring.001
+    401298: Metal_Ring.001 1
+    401300: Metal_Ring.001 2
+    401302: Metal_Ring.001 3
+    401304: Metal_Ring.001 4
+    401306: Metal_Ring.001 5
+    401308: Metal_Ring.001 6
+    401310: Metal_Ring.001 7
+    401312: Metal_Ring.001 8
+    401314: Metal_Ring.001 9
+    401316: Platinium_Axe
+    401318: Platinium_Bow
+    401320: Platinium_Bow_Armature
+    401322: Platinium_Dagger
+    401324: Platinium_GreatSword
+    401326: Platinium_Hammer
+    401328: Platinium_Mace
+    401330: Platinium_Sword
+    401332: Platinium_WarAxe
+    401334: Silver_Axe
+    401336: Silver_Bow
+    401338: Silver_Bow_Armature
+    401340: Silver_Dagger
+    401342: Silver_Greatsword
+    401344: Silver_Mace
+    401346: Silver_Sword
+    401348: Silver_Waraxe
+    401350: Silver_WarHammer
+    401352: Stage
+    401354: Steel_Axe
+    401356: Steel_Bow
+    401358: Steel_Bow_Armature
+    401360: Steel_Dagger
+    401362: Steel_GreatSword
+    401364: Steel_Mace
+    401366: Steel_Sword
+    401368: Steel_WarAxe
+    401370: Steel_WarHammer
+    401372: Stone_Axe
+    401374: Stone_Bow
+    401376: Stone_Bow_Armature
+    401378: Stone_Dagger
+    401380: Stone_Greatsword
+    401382: Stone_Hammer
+    401384: Stone_Mace
+    401386: Stone_Sword
+    401388: Stone_Waraxe
+    401390: Sword_Adamantium
+    401392: Sword_Cobalt
+    401394: Sword_Copper
+    401396: Sword_Copper_Flat
+    401398: Sword_Gold
+    401400: Sword_Iron
+    401402: Sword_Mithril
+    401404: Sword_Orichalcum
+    401406: Sword_Platinium
+    401408: Sword_QuickSilver
+    401410: Sword_Silver
+    401412: Sword_Steel
+    401414: Sword_Stone
+    401416: Sword_Stone.001
+    401418: Sword_Titanium
+    401420: Titanium_Axe
+    401422: Titanium_Bow
+    401424: Titanium_Bow_Armature
+    401426: Titanium_Dagger
+    401428: Titanium_GreatSword
+    401430: Titanium_Hammer
+    401432: Titanium_Mace
+    401434: Titanium_Sword
+    401436: Titanium_WarAxe
+    401438: WarAxe_Adamantium
+    401440: WarAxe_Cobalt
+    401442: WarAxe_Copper
+    401444: WarAxe_Copper_Flat
+    401446: WarAxe_Gold
+    401448: Waraxe_Iron
+    401450: WarAxe_Mithril
+    401452: WarAxe_Orichalcum
+    401454: WarAxe_Platinium
+    401456: WarAxe_QuickSilver
+    401458: WarAxe_Silver
+    401460: WarAxe_Steel_(scythe)
+    401462: WarAxe_Titanium.001
+    401464: Bone.026
+    401466: Bone.027
+    401468: Bot Ik
+    401470: Bot Ik_end
+    401472: Bot Limit
+    401474: Bot Limit_end
+    401476: String
+    401478: String_end
+    401480: Top Ik
+    401482: Top Ik_end
+    401484: Top Limit
+    401486: Top Limit_end
+    2100000: Copper.004
+    2300000: Arrow
+    2300002: Axe_Adamantium
+    2300004: Axe_Cobalt
+    2300006: Axe_Copper
+    2300008: Axe_Copper_Flat
+    2300010: Axe_Gold
+    2300012: Axe_Iron
+    2300014: Axe_Mithril
+    2300016: Axe_Orichalcum
+    2300018: Axe_Platinium
+    2300020: Axe_QuickSilver
+    2300022: Axe_Silver
+    2300024: Axe_Steel.007
+    2300026: Axe_Steel_(Kama)
+    2300028: Axe_Stone
+    2300030: Axe_Titanium.001
+    2300032: Bow_Adamantium
+    2300034: Bow_Mithril
+    2300036: Bow_Orichalcum
+    2300038: Bow_QuickSilver
+    2300040: Cobalt_Axe
+    2300042: Cobalt_Dagger
+    2300044: Cobalt_GreatSword
+    2300046: Cobalt_Hammer
+    2300048: Cobalt_Mace
+    2300050: Cobalt_Sword
+    2300052: Cobalt_Waraxe
+    2300054: Collider_axe
+    2300056: Collider_Dagger
+    2300058: Collider_Hammer
+    2300060: Collider_Mace
+    2300062: Collider_Sword
+    2300064: Collider_Waraxe
+    2300066: Copper_Axe
+    2300068: Copper_Dagger
+    2300070: Copper_GreatSword
+    2300072: Copper_Hammer
+    2300074: Copper_Mace
+    2300076: Copper_Sword
+    2300078: Copper_WarAxe
+    2300080: Dagger_Adamantium
+    2300082: Dagger_Cobalt
+    2300084: Dagger_Copper
+    2300086: Dagger_Copper_Flat
+    2300088: Dagger_Gold
+    2300090: Dagger_Iron
+    2300092: Dagger_Mithril
+    2300094: Dagger_Orichalcum
+    2300096: Dagger_Platinium
+    2300098: Dagger_QuickSilver
+    2300100: Dagger_Silver
+    2300102: Dagger_Steel
+    2300104: Dagger_Stone
+    2300106: Dagger_Titanium
+    2300108: Gold_Axe
+    2300110: Gold_Dagger
+    2300112: Gold_GreatSword
+    2300114: Gold_Hammer
+    2300116: Gold_Mace
+    2300118: Gold_Sword
+    2300120: Gold_WarAxe
+    2300122: GreatSword_Adamantium
+    2300124: GreatSword_Cobalt
+    2300126: GreatSword_Copper
+    2300128: GreatSword_Copper_Flat
+    2300130: GreatSword_Gold
+    2300132: Greatsword_Iron
+    2300134: GreatSword_Mithril
+    2300136: GreatSword_Orichalcum
+    2300138: GreatSword_Platinium
+    2300140: GreatSword_QuickSilver
+    2300142: GreatSword_Steel
+    2300144: GreatSword_Steel.001
+    2300146: GreatSword_Titanium
+    2300148: Hammer_Adamantium
+    2300150: Hammer_Cobalt
+    2300152: Hammer_Copper
+    2300154: Hammer_Copper_Flat
+    2300156: Hammer_Gold
+    2300158: Hammer_Iron
+    2300160: Hammer_Iron.001
+    2300162: Hammer_Mithril
+    2300164: Hammer_Orichalcum
+    2300166: Hammer_Platinium
+    2300168: Hammer_QuickSilver
+    2300170: Hammer_Silver
+    2300172: Hammer_Steel
+    2300174: Hammer_Titanium
+    2300176: Iron_Axe
+    2300178: Iron_Dagger
+    2300180: Iron_GreatSword
+    2300182: Iron_Mace
+    2300184: Iron_Sword
+    2300186: Iron_Waraxe
+    2300188: Mace_Adamantium
+    2300190: Mace_Cobalt
+    2300192: Mace_Copper
+    2300194: Mace_Copper_Flat
+    2300196: Mace_Gold
+    2300198: Mace_Iron
+    2300200: Mace_Mithril
+    2300202: Mace_Orichalcum
+    2300204: Mace_Platinium
+    2300206: Mace_QuickSilver
+    2300208: Mace_Silver
+    2300210: Mace_Steel
+    2300212: Mace_Stone
+    2300214: Mace_Stone.001
+    2300216: Mace_Stone.002
+    2300218: Mace_Titanium
+    2300220: Platinium_Axe
+    2300222: Platinium_Dagger
+    2300224: Platinium_GreatSword
+    2300226: Platinium_Hammer
+    2300228: Platinium_Mace
+    2300230: Platinium_Sword
+    2300232: Platinium_WarAxe
+    2300234: Silver_Axe
+    2300236: Silver_Dagger
+    2300238: Silver_Greatsword
+    2300240: Silver_Mace
+    2300242: Silver_Sword
+    2300244: Silver_Waraxe
+    2300246: Silver_WarHammer
+    2300248: Stage
+    2300250: Steel_Axe
+    2300252: Steel_Dagger
+    2300254: Steel_GreatSword
+    2300256: Steel_Mace
+    2300258: Steel_Sword
+    2300260: Steel_WarAxe
+    2300262: Steel_WarHammer
+    2300264: Stone_Axe
+    2300266: Stone_Dagger
+    2300268: Stone_Greatsword
+    2300270: Stone_Hammer
+    2300272: Stone_Mace
+    2300274: Stone_Sword
+    2300276: Stone_Waraxe
+    2300278: Sword_Adamantium
+    2300280: Sword_Cobalt
+    2300282: Sword_Copper
+    2300284: Sword_Copper_Flat
+    2300286: Sword_Gold
+    2300288: Sword_Iron
+    2300290: Sword_Mithril
+    2300292: Sword_Orichalcum
+    2300294: Sword_Platinium
+    2300296: Sword_QuickSilver
+    2300298: Sword_Silver
+    2300300: Sword_Steel
+    2300302: Sword_Stone
+    2300304: Sword_Stone.001
+    2300306: Sword_Titanium
+    2300308: Titanium_Axe
+    2300310: Titanium_Dagger
+    2300312: Titanium_GreatSword
+    2300314: Titanium_Hammer
+    2300316: Titanium_Mace
+    2300318: Titanium_Sword
+    2300320: Titanium_WarAxe
+    2300322: WarAxe_Adamantium
+    2300324: WarAxe_Cobalt
+    2300326: WarAxe_Copper
+    2300328: WarAxe_Copper_Flat
+    2300330: WarAxe_Gold
+    2300332: Waraxe_Iron
+    2300334: WarAxe_Mithril
+    2300336: WarAxe_Orichalcum
+    2300338: WarAxe_Platinium
+    2300340: WarAxe_QuickSilver
+    2300342: WarAxe_Silver
+    2300344: WarAxe_Steel_(scythe)
+    2300346: WarAxe_Titanium.001
+    3300000: Arrow
+    3300002: Axe_Adamantium
+    3300004: Axe_Cobalt
+    3300006: Axe_Copper
+    3300008: Axe_Copper_Flat
+    3300010: Axe_Gold
+    3300012: Axe_Iron
+    3300014: Axe_Mithril
+    3300016: Axe_Orichalcum
+    3300018: Axe_Platinium
+    3300020: Axe_QuickSilver
+    3300022: Axe_Silver
+    3300024: Axe_Steel.007
+    3300026: Axe_Steel_(Kama)
+    3300028: Axe_Stone
+    3300030: Axe_Titanium.001
+    3300032: Bow_Adamantium
+    3300034: Bow_Mithril
+    3300036: Bow_Orichalcum
+    3300038: Bow_QuickSilver
+    3300040: Cobalt_Axe
+    3300042: Cobalt_Dagger
+    3300044: Cobalt_GreatSword
+    3300046: Cobalt_Hammer
+    3300048: Cobalt_Mace
+    3300050: Cobalt_Sword
+    3300052: Cobalt_Waraxe
+    3300054: Collider_axe
+    3300056: Collider_Dagger
+    3300058: Collider_Hammer
+    3300060: Collider_Mace
+    3300062: Collider_Sword
+    3300064: Collider_Waraxe
+    3300066: Copper_Axe
+    3300068: Copper_Dagger
+    3300070: Copper_GreatSword
+    3300072: Copper_Hammer
+    3300074: Copper_Mace
+    3300076: Copper_Sword
+    3300078: Copper_WarAxe
+    3300080: Dagger_Adamantium
+    3300082: Dagger_Cobalt
+    3300084: Dagger_Copper
+    3300086: Dagger_Copper_Flat
+    3300088: Dagger_Gold
+    3300090: Dagger_Iron
+    3300092: Dagger_Mithril
+    3300094: Dagger_Orichalcum
+    3300096: Dagger_Platinium
+    3300098: Dagger_QuickSilver
+    3300100: Dagger_Silver
+    3300102: Dagger_Steel
+    3300104: Dagger_Stone
+    3300106: Dagger_Titanium
+    3300108: Gold_Axe
+    3300110: Gold_Dagger
+    3300112: Gold_GreatSword
+    3300114: Gold_Hammer
+    3300116: Gold_Mace
+    3300118: Gold_Sword
+    3300120: Gold_WarAxe
+    3300122: GreatSword_Adamantium
+    3300124: GreatSword_Cobalt
+    3300126: GreatSword_Copper
+    3300128: GreatSword_Copper_Flat
+    3300130: GreatSword_Gold
+    3300132: Greatsword_Iron
+    3300134: GreatSword_Mithril
+    3300136: GreatSword_Orichalcum
+    3300138: GreatSword_Platinium
+    3300140: GreatSword_QuickSilver
+    3300142: GreatSword_Steel
+    3300144: GreatSword_Steel.001
+    3300146: GreatSword_Titanium
+    3300148: Hammer_Adamantium
+    3300150: Hammer_Cobalt
+    3300152: Hammer_Copper
+    3300154: Hammer_Copper_Flat
+    3300156: Hammer_Gold
+    3300158: Hammer_Iron
+    3300160: Hammer_Iron.001
+    3300162: Hammer_Mithril
+    3300164: Hammer_Orichalcum
+    3300166: Hammer_Platinium
+    3300168: Hammer_QuickSilver
+    3300170: Hammer_Silver
+    3300172: Hammer_Steel
+    3300174: Hammer_Titanium
+    3300176: Iron_Axe
+    3300178: Iron_Dagger
+    3300180: Iron_GreatSword
+    3300182: Iron_Mace
+    3300184: Iron_Sword
+    3300186: Iron_Waraxe
+    3300188: Mace_Adamantium
+    3300190: Mace_Cobalt
+    3300192: Mace_Copper
+    3300194: Mace_Copper_Flat
+    3300196: Mace_Gold
+    3300198: Mace_Iron
+    3300200: Mace_Mithril
+    3300202: Mace_Orichalcum
+    3300204: Mace_Platinium
+    3300206: Mace_QuickSilver
+    3300208: Mace_Silver
+    3300210: Mace_Steel
+    3300212: Mace_Stone
+    3300214: Mace_Stone.001
+    3300216: Mace_Stone.002
+    3300218: Mace_Titanium
+    3300220: Platinium_Axe
+    3300222: Platinium_Dagger
+    3300224: Platinium_GreatSword
+    3300226: Platinium_Hammer
+    3300228: Platinium_Mace
+    3300230: Platinium_Sword
+    3300232: Platinium_WarAxe
+    3300234: Silver_Axe
+    3300236: Silver_Dagger
+    3300238: Silver_Greatsword
+    3300240: Silver_Mace
+    3300242: Silver_Sword
+    3300244: Silver_Waraxe
+    3300246: Silver_WarHammer
+    3300248: Stage
+    3300250: Steel_Axe
+    3300252: Steel_Dagger
+    3300254: Steel_GreatSword
+    3300256: Steel_Mace
+    3300258: Steel_Sword
+    3300260: Steel_WarAxe
+    3300262: Steel_WarHammer
+    3300264: Stone_Axe
+    3300266: Stone_Dagger
+    3300268: Stone_Greatsword
+    3300270: Stone_Hammer
+    3300272: Stone_Mace
+    3300274: Stone_Sword
+    3300276: Stone_Waraxe
+    3300278: Sword_Adamantium
+    3300280: Sword_Cobalt
+    3300282: Sword_Copper
+    3300284: Sword_Copper_Flat
+    3300286: Sword_Gold
+    3300288: Sword_Iron
+    3300290: Sword_Mithril
+    3300292: Sword_Orichalcum
+    3300294: Sword_Platinium
+    3300296: Sword_QuickSilver
+    3300298: Sword_Silver
+    3300300: Sword_Steel
+    3300302: Sword_Stone
+    3300304: Sword_Stone.001
+    3300306: Sword_Titanium
+    3300308: Titanium_Axe
+    3300310: Titanium_Dagger
+    3300312: Titanium_GreatSword
+    3300314: Titanium_Hammer
+    3300316: Titanium_Mace
+    3300318: Titanium_Sword
+    3300320: Titanium_WarAxe
+    3300322: WarAxe_Adamantium
+    3300324: WarAxe_Cobalt
+    3300326: WarAxe_Copper
+    3300328: WarAxe_Copper_Flat
+    3300330: WarAxe_Gold
+    3300332: Waraxe_Iron
+    3300334: WarAxe_Mithril
+    3300336: WarAxe_Orichalcum
+    3300338: WarAxe_Platinium
+    3300340: WarAxe_QuickSilver
+    3300342: WarAxe_Silver
+    3300344: WarAxe_Steel_(scythe)
+    3300346: WarAxe_Titanium.001
+    4300000: Copper_Bow
+    4300002: Dagger_Copper_Flat
+    4300004: Sword_Copper_Flat
+    4300006: Axe_Copper_Flat
+    4300008: Mace_Copper_Flat
+    4300010: Hammer_Copper_Flat
+    4300012: WarAxe_Copper_Flat
+    4300014: GreatSword_Copper_Flat
+    4300016: Collider_Waraxe
+    4300018: Collider_Hammer
+    4300020: Collider_Mace
+    4300022: Collider_axe
+    4300024: Collider_Sword
+    4300026: Collider_Dagger
+    4300028: Arrow
+    4300030: Stage
+    4300032: Iron_GreatSword
+    4300034: Iron_Waraxe
+    4300036: Hammer_Iron.001
+    4300038: Iron_Mace
+    4300040: Iron_Axe
+    4300042: Iron_Sword
+    4300044: Iron_Dagger
+    4300046: Iron_Bow
+    4300048: Greatsword_Iron
+    4300050: Dagger_Iron
+    4300052: Waraxe_Iron
+    4300054: Hammer_Iron
+    4300056: Mace_Iron
+    4300058: Bow_Iron
+    4300060: Axe_Iron
+    4300062: Sword_Iron
+    4300064: Stone_Greatsword
+    4300066: Stone_Waraxe
+    4300068: Stone_Hammer
+    4300070: Stone_Axe
+    4300072: Stone_Mace
+    4300074: Stone_Sword
+    4300076: Stone_Dagger
+    4300078: Collider_Bow
+    4300080: Stone_Bow
+    4300082: Bow_Stone
+    4300084: Copper_Bow_Flat
+    4300086: Steel_Bow
+    4300088: Silver_Bow
+    4300090: Gold_Bow
+    4300092: Titanium_Bow
+    4300094: Platinium_Bow
+    4300096: Cobalt_Bow
+    4300098: Copper_WarAxe
+    4300100: Copper_Dagger
+    4300102: Copper_GreatSword
+    4300104: Copper_Mace
+    4300106: Copper_Hammer
+    4300108: Copper_Sword
+    4300110: Copper_Axe
+    4300112: Steel_Dagger
+    4300114: Steel_GreatSword
+    4300116: Steel_WarAxe
+    4300118: Steel_Mace
+    4300120: Steel_WarHammer
+    4300122: Steel_Sword
+    4300124: Steel_Axe
+    4300126: Silver_Dagger
+    4300128: Silver_Sword
+    4300130: Silver_Axe
+    4300132: Silver_Mace
+    4300134: Silver_WarHammer
+    4300136: Silver_Waraxe
+    4300138: Silver_Greatsword
+    4300140: Gold_Dagger
+    4300142: Gold_Sword
+    4300144: Gold_Axe
+    4300146: Gold_Mace
+    4300148: Gold_Hammer
+    4300150: Gold_WarAxe
+    4300152: Gold_GreatSword
+    4300154: Titanium_Dagger
+    4300156: Titanium_Sword
+    4300158: Titanium_Axe
+    4300160: Titanium_Mace
+    4300162: Titanium_Hammer
+    4300164: Titanium_WarAxe
+    4300166: Titanium_GreatSword
+    4300168: Platinium_Dagger
+    4300170: Platinium_Sword
+    4300172: Platinium_Axe
+    4300174: Platinium_Mace
+    4300176: Platinium_Hammer
+    4300178: Platinium_WarAxe
+    4300180: Platinium_GreatSword
+    4300182: Cobalt_Dagger
+    4300184: Cobalt_GreatSword
+    4300186: Cobalt_Waraxe
+    4300188: Cobalt_Hammer
+    4300190: Cobalt_Axe
+    4300192: Cobalt_Sword
+    4300194: Cobalt_Mace
+    4300196: Sword_Stone.001
+    4300198: Mace_Stone.002
+    4300200: Mace_Stone.001
+    4300202: Mace_Stone
+    4300204: Sword_Stone
+    4300206: Dagger_Stone
+    4300208: Bow_Cobalt
+    4300210: Bow_Platinium
+    4300212: Bow_Titanium
+    4300214: Bow_Gold
+    4300216: Bow_Silver
+    4300218: Bow_Steel
+    4300220: Bow_Copper
+    4300222: WarAxe_Titanium.001
+    4300224: Axe_Titanium.001
+    4300226: WarAxe_Silver
+    4300228: WarAxe_Copper
+    4300230: GreatSword_Steel.001
+    4300232: Axe_Silver
+    4300234: Sword_Silver
+    4300236: Hammer_Silver
+    4300238: Mace_Silver
+    4300240: Dagger_Silver
+    4300242: GreatSword_Gold
+    4300244: GreatSword_Titanium
+    4300246: Mace_Titanium
+    4300248: GreatSword_Platinium
+    4300250: Dagger_Cobalt
+    4300252: Bow_QuickSilver
+    4300254: Bow_Orichalcum
+    4300256: Bow_Mithril
+    4300258: Bow_Adamantium
+    4300260: Dagger_Mithril
+    4300262: Dagger_Adamantium
+    4300264: Dagger_QuickSilver
+    4300266: Dagger_Orichalcum
+    4300268: Dagger_Platinium
+    4300270: Dagger_Titanium
+    4300272: Dagger_Gold
+    4300274: Dagger_Steel
+    4300276: Dagger_Copper
+    4300278: GreatSword_Mithril
+    4300280: GreatSword_Adamantium
+    4300282: GreatSword_QuickSilver
+    4300284: GreatSword_Orichalcum
+    4300286: GreatSword_Cobalt
+    4300288: GreatSword_Steel
+    4300290: GreatSword_Copper
+    4300292: WarAxe_Mithril
+    4300294: WarAxe_Adamantium
+    4300296: WarAxe_QuickSilver
+    4300298: WarAxe_Orichalcum
+    4300300: WarAxe_Cobalt
+    4300302: WarAxe_Platinium
+    4300304: WarAxe_Gold
+    4300306: WarAxe_Steel_(scythe)
+    4300308: Hammer_Mithril
+    4300310: Hammer_Adamantium
+    4300312: Hammer_QuickSilver
+    4300314: Hammer_Cobalt
+    4300316: Axe_Cobalt
+    4300318: Mace_Mithril
+    4300320: Mace_Steel
+    4300322: Mace_QuickSilver
+    4300324: Mace_Adamantium
+    4300326: Mace_Cobalt
+    4300328: Mace_Orichalcum
+    4300330: Mace_Platinium
+    4300332: Mace_Gold
+    4300334: Mace_Copper
+    4300336: Hammer_Orichalcum
+    4300338: Hammer_Gold
+    4300340: Hammer_Titanium
+    4300342: Hammer_Platinium
+    4300344: Hammer_Copper
+    4300346: Hammer_Steel
+    4300348: Sword_Titanium
+    4300350: Sword_Steel
+    4300352: Sword_Platinium
+    4300354: Sword_Cobalt
+    4300356: Sword_Copper
+    4300358: Sword_QuickSilver
+    4300360: Sword_Mithril
+    4300362: Sword_Orichalcum
+    4300364: Sword_Gold
+    4300366: Sword_Adamantium
+    4300368: Axe_Steel.007
+    4300370: Axe_Orichalcum
+    4300372: Axe_QuickSilver
+    4300374: Axe_Platinium
+    4300376: Axe_Mithril
+    4300378: Axe_Adamantium
+    4300380: Axe_Steel_(Kama)
+    4300382: Axe_Copper
+    4300384: Axe_Gold
+    4300386: Axe_Stone
+    7400000: Armature_Bow_Copper.002|Draw
+    7400002: Armature_Bow_Copper.002|Fire
+    7400004: Armature_Bow_Copper.002|Full Loop
+    7400006: Armature_Bow_Copper.002|Hold
+    7400008: Armature_Bow_Copper.002|Idle
+    7400010: Copper_Bow_Armature|Draw
+    7400012: Copper_Bow_Armature|Fire
+    7400014: Copper_Bow_Armature|Full Loop
+    7400016: Copper_Bow_Armature|Hold
+    7400018: Copper_Bow_Armature|Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Copper_Bow
+    13700002: Bow_Cobalt
+    13700004: Bow_Copper
+    13700006: Bow_Gold
+    13700008: Bow_Iron
+    13700010: Bow_Platinium
+    13700012: Bow_Silver
+    13700014: Bow_Steel
+    13700016: Bow_Stone
+    13700018: Bow_Titanium
+    13700020: Cobalt_Bow
+    13700022: Collider_Bow
+    13700024: Copper_Bow_Flat
+    13700026: Gold_Bow
+    13700028: Iron_Bow
+    13700030: Platinium_Bow
+    13700032: Silver_Bow
+    13700034: Steel_Bow
+    13700036: Stone_Bow
+    13700038: Titanium_Bow
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Copper_Bow_Armature|Draw
+      takeName: Copper_Bow_Armature|Draw
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Copper_Bow_Armature|Fire
+      takeName: Copper_Bow_Armature|Fire
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Copper_Bow_Armature|Full Loop
+      takeName: Copper_Bow_Armature|Full Loop
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Copper_Bow_Armature|Hold
+      takeName: Copper_Bow_Armature|Hold
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Copper_Bow_Armature|Idle
+      takeName: Copper_Bow_Armature|Idle
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
