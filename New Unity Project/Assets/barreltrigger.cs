@@ -6,7 +6,7 @@ public class barreltrigger : MonoBehaviour
 {
     public barrelscript barrelscript;
     //public AutoWalk walkingscript;
-    
+    /**
     private void OnTriggerEnter(Collider other){
         if(other.tag == "Player") barrelscript.setinrange();
         //else if(other.tag == "BlockingObject")walkingscript.entered();
@@ -16,5 +16,5 @@ public class barreltrigger : MonoBehaviour
         if(other.tag == "Player") barrelscript.resetinrange();
         //else if(other.tag == "BlockingObject") walkingscript.exited();
     }
-    
+    */
 }

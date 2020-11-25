@@ -4,21 +4,19 @@ using UnityEngine;
 
 public class test1 : MonoBehaviour
 {
-    //finalbarel bar;
-    public GameObject hand;
-    public Transform barrel;
+    finalbarel bar;
     // Update is called once per frame
     void Start(){
-        //bar = GetComponent<finalbarel>();
+        bar = GetComponent<finalbarel>();
     }
     private void OnTriggerEnter(Collider other){
         if(other.tag == "Player"){
-            barrel.transform.SetParent(hand.transform);
+            bar.enabled = true;
         }
     }
     private void OnTriggerExit(Collider other){
         if(other.tag == "Player"){
-            barrel.transform.SetParent(null);
+            bar.enabled = false;
         }
     }
 }

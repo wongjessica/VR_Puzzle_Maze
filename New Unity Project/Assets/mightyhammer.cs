@@ -10,7 +10,7 @@ public class mightyhammer : MonoBehaviour
     void Start(){
         gameObject.layer = 12;
     }
-
+    
     void Update(){
         if(boxcount == 0){
             time += Time.deltaTime;
@@ -19,5 +19,5 @@ public class mightyhammer : MonoBehaviour
             }
         }
     }
-
+    
 }

@@ -15,7 +15,7 @@ public class Rotate : MonoBehaviour, IPointerClickHandler
         coroutineAllowed = true;
         numberShown = 0;
     }
-
+    
     public void OnPointerClick(PointerEventData pointerEventData) {
         if (coroutineAllowed){
             StartCoroutine("RotateWheel");

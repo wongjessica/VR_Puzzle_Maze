@@ -5,22 +5,23 @@ using System;
 
 public class makefade : MonoBehaviour
 {
-    private DateTime starttime;
-    private DateTime endtime;
-
+    private float time;
     private Color alphaColor;
-    private float timeToFade = 3.0f;
-    //Material myRenderer;
-    //MeshRenderer myRenderer;
-    MeshRenderer myRenderer;
+    //private float timeToFade = 3.0f;
+
+    Material myRenderer;
+    private float smoothness = .75f;
+
     Color solidcolor;
     void Start(){
-        starttime = DateTime.Now;
+        myRenderer = gameObject.GetComponent<MeshRenderer>().material;
+        alphaColor.a = 0;
     }
     void Update()
     {   
-        endtime = DateTime.Now;
-        if((endtime - starttime).TotalSeconds >= 3f){
+        time+= Time.deltaTime;
+        myRenderer.color = Color.Lerp(myRenderer.color, alphaColor, smoothness * Time.deltaTime);
+        if(time >= 3f){
             Destroy(gameObject);
         }
          
