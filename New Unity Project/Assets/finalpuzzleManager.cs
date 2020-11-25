@@ -99,8 +99,8 @@ public class finalpuzzleManager : MonoBehaviour
 
     private bool isSolved;
     
-    //public Animator openLock;
-    //public Animator openDoor;
+    public Animator rise;
+    public Reveal destroyscript;
 
     public static bool begincountdown;
     public float maxTime = 30f;
@@ -186,7 +186,11 @@ public class finalpuzzleManager : MonoBehaviour
             resetEm.enabled = false;    //make back interactable
         }
         this.enabled = false;
+
+        rise.SetBool("finished", true); //open hidden thing
+        destroyscript.enabled = true;
         Debug.Log("open behind");
     }
+    
     
 }
