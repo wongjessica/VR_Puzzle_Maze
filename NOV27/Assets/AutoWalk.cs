@@ -24,7 +24,7 @@ public class AutoWalk : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(vrCamera.eulerAngles.x >= toggleAngle && vrCamera.eulerAngles.x < 90.0f && Input.GetButtonDown("Fire1")){
+        if(vrCamera.eulerAngles.x >= toggleAngle - 10 && vrCamera.eulerAngles.x < 90.0f && Input.GetButtonDown("Fire1")){
             moveForward = !moveForward;
         }
 

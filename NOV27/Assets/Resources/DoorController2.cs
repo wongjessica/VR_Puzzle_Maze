@@ -9,14 +9,28 @@ public class DoorController2 : MonoBehaviour
     public bool zone3_correctness = false;
     public bool zone4_correctness = false;
     public bool zone5_correctness = false;
-    public Animator anim;
 
+    public Animator anim;
+    private GameObject obj1;
+    private GameObject obj2;
+    private GameObject obj3;
+    private GameObject obj4;
+    private GameObject obj5;
+
+    void Start()
+    {
+         obj1 = GameObject.Find("Blue Sphere");
+         obj2 = GameObject.Find("Orange Sphere");
+         obj3 = GameObject.Find("Green Sphere 1");
+         obj4 = GameObject.Find("Green Sphere 2");
+         obj5 = GameObject.Find("Yellow Sphere");
+    }
 
     public void Update()
     {
-        if ((zone1_correctness == true) && (zone2_correctness == true)
-        && (zone3_correctness == true) && (zone4_correctness == true)
-        && (zone5_correctness == true))
+        if ((obj1.transform.position.z > obj2.transform.position.z) && (obj2.transform.position.z > obj3.transform.position.z)
+        && ((obj3.transform.position.z > obj4.transform.position.z) || (obj4.transform.position.z > obj3.transform.position.z))&& (obj4.transform.position.z >obj5.transform.position.z)
+)
         {
             Debug.Log("Puzzle solved!");
             anim.SetBool("Open", true);
