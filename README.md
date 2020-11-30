@@ -10,6 +10,7 @@ To run on PC:
 2. Open the folder on Unity Hub, version 2019.4.11f1
 3. Go to Assets > Scenes > backup
 4. Press the Play button. It should prompt a tab called "Game"
+
 **Note**: Use alt to move the player's POV, and Gaze at an object to trigger an effect.
 5. Now solve the escape room ^-^
 
