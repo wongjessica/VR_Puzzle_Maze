@@ -20,6 +20,8 @@ To run on Google Cardboard:
 2. Open the app from the home screen on your mobile device.
 3. Wear VR headset and press “Start” when prompted.
 
+APK Link: https://drive.google.com/file/d/1ob8WyyK5jTqpjuKJWftBIaS2vKJjH6S6/view?usp=sharing
+
 Note: This project is **not** compatible with iOS and only runs on the Google Cardboard. Compatibility was not tested on other VR devices.
 
 Link to Demo:
